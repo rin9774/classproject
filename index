@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name - Resume</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Your Name</h1>
+      <p>Web Developer • Designer • Programmer</p>
+      <p>Email: your.email@example.com | GitHub: github.com/yourusername</p>
+    </header>
+
+    <section>
+      <h2>Profile</h2>
+      <p>A passionate developer with experience in web technologies, eager to build impactful projects and solve real-world problems.</p>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul class="skills">
+        <li>HTML/CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Python</li>
+        <li>Git/GitHub</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      <div class="job">
+        <h3>Front-End Developer — ABC Corp</h3>
+        <p><em>Jan 2023 – Present</em></p>
+        <ul>
+          <li>Built responsive interfaces using HTML, CSS, and JavaScript</li>
+          <li>Improved performance and accessibility of company website</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="education">
+        <h3>B.S. in Computer Science</h3>
+        <p>University Name, 2019 – 2023</p>
+      </div>
+    </section>
+
+    <footer>
+      <p>© 2025 Your Name</p>
+    </footer>
+  </div>
+</body>
+</html>
